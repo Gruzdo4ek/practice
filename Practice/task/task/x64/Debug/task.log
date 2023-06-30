@@ -1,0 +1,4 @@
+﻿  task.cpp
+C:\Users\masha\OneDrive\Рабочий стол\Practice\task\task\task.cpp(37,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\masha\OneDrive\Рабочий стол\Practice\task\task\task.cpp(60,21): warning C4551: в вызове функции отсутствует список аргументов
+  task.vcxproj -> C:\Users\masha\OneDrive\Рабочий стол\Practice\task\x64\Debug\task.exe
